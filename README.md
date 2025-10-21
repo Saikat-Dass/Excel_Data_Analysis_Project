@@ -57,4 +57,5 @@ The data sourced from local store which provides a foundation for my analysis, c
 
 8. Which is Highest selling category?
 
+![Top selling category](https://github.com/Saikat-Dass/Excel_Data_Analysis_Project/blob/4531218a14a4ecb928a849683d49dccdf7fbb853/Project%20Images/Top%20selling%20category.png)
 

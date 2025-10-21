@@ -35,9 +35,17 @@ The data sourced from local store which provides a foundation for my analysis, c
 
 ![Top orders & sales Month](https://github.com/Saikat-Dass/Excel_Data_Analysis_Project/blob/942af5b9c3fdd7b455d10d727122e58ebe3b3f61/Project%20Images/Top%20orders%20%26%20sales%20Month.png)
 
+<h3>Insights</h3>
+
+- March month got the highest sales and orders, followed by February, April and June.
+
 3. Who purchased more- men or women in 2022?
 
 ![Total Sales Men vs Women](https://github.com/Saikat-Dass/Excel_Data_Analysis_Project/blob/350fc2cea627ae3e5bb0f2aef6fb9c7e77937c05/Project%20Images/Total%20Sales%20Men%20vs%20Women.png)
+
+<h3>Insights</h3>
+
+- Women are more likely to buy compared to men (~65%).
 
 4. What are the different order statuses in 2022?
 
@@ -47,6 +55,10 @@ The data sourced from local store which provides a foundation for my analysis, c
 
 ![Top 6 states in Sales](https://github.com/Saikat-Dass/Excel_Data_Analysis_Project/blob/350fc2cea627ae3e5bb0f2aef6fb9c7e77937c05/Project%20Images/Top%206%20States%20in%20Sales.png)
 
+<h3>Insights</h3>
+
+- Maharashtra, Karnataka, Uttar Pradesh, Telangana, Tamil Nadu and Delhi are the top 6 performing regions.
+
 6. Relation between age and gender based on number orders
 
 ![Orders based on Age & Gender](https://github.com/Saikat-Dass/Excel_Data_Analysis_Project/blob/350fc2cea627ae3e5bb0f2aef6fb9c7e77937c05/Project%20Images/Orders%20based%20on%20Age%20%26%20Gender.png)
@@ -55,7 +67,22 @@ The data sourced from local store which provides a foundation for my analysis, c
 
 ![Top Sales Channel](https://github.com/Saikat-Dass/Excel_Data_Analysis_Project/blob/350fc2cea627ae3e5bb0f2aef6fb9c7e77937c05/Project%20Images/Top%20Sales%20Channel.png)
 
+<h3>Insights</h3>
+
+- Amazon, Flipkart, and Myntra channels are the maximum contributing platforms.
+
 8. Which is Highest selling category?
 
 ![Top selling category](https://github.com/Saikat-Dass/Excel_Data_Analysis_Project/blob/4531218a14a4ecb928a849683d49dccdf7fbb853/Project%20Images/Top%20selling%20category.png)
 
+<h3>Insights</h3>
+
+- Kurta is the highest selling category, followed by Saree, Set.
+
+<h2>Conclusion</h2>
+
+To improve sales target women customers
+- In the age group of 30-49 years
+- Living in Maharashtra, Karnataka, and Uttar Pradesh region
+- This can be done by showing them targeted ads, offers and coupons on Amazon, Flipkart and Myntra platform
+- Particularly in Kurta, Saree and Set category.

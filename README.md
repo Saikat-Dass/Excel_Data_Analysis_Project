@@ -33,6 +33,8 @@ The data sourced from local store which provides a foundation for my analysis, c
 
 2. Which month got the highest sales and orders?
 
+![Top orders & sales Month](https://github.com/Saikat-Dass/Excel_Data_Analysis_Project/blob/942af5b9c3fdd7b455d10d727122e58ebe3b3f61/Project%20Images/Top%20orders%20%26%20sales%20Month.png)
+
 3. Who purchased more- men or women in 2022?
 
 ![Total Sales Men vs Women](https://github.com/Saikat-Dass/Excel_Data_Analysis_Project/blob/350fc2cea627ae3e5bb0f2aef6fb9c7e77937c05/Project%20Images/Total%20Sales%20Men%20vs%20Women.png)

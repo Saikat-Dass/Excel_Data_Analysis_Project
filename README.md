@@ -6,6 +6,10 @@ This project is an analysis of the sales data of a store, focusing on the dedica
 
 The data sourced from local store which provides a foundation for my analysis, containing detailed information on Sales based on Genders, Channels, States & Months. 
 
+<h2>The Final Dashboard report :</h2>
+
+![project report](https://github.com/Saikat-Dass/Excel_Driven_Sales_Analysis/blob/957804df032ebe43f7b3d054a3d80831f7294f36/Project%20Report.png)
+
 <h2>Tools applied :-</h2>
 
 1. Microsoft Excel

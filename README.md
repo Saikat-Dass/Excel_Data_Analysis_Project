@@ -6,6 +6,14 @@ This project is an analysis of the sales data of a store, focusing on the dedica
 
 The data sourced from local store which provides a foundation for my analysis, containing detailed information on Sales based on Genders, Channels, States & Months. 
 
+<h2>Tools applied :-</h2>
+
+1. Microsoft Excel
+2. Specific Excel tools :
+- Data Cleaning and Transformation : Tools like Power Query, Text to Columns, Remove Duplicates
+- Visualizations : Bar charts, Line graphs, Pie charts, pivot charts
+- Tools for cleaning data before it went into Excel
+
 <h2>Questions solved :-</h2>
 
 1. Compare the sales and orders using a single chart
@@ -16,14 +24,6 @@ The data sourced from local store which provides a foundation for my analysis, c
 6. Relation between age and gender based on number orders
 7. Which channel is contributing to maximum sales?
 8. Which is Highest selling category.
-
-<h2>Tools applied :-</h2>
-
-1. Microsoft Excel
-2. Specific Excel tools :
-- Data Cleaning and Transformation : Tools like Power Query, Text to Columns, Remove Duplicates
-- Visualizations : Bar charts, Line graphs, Pie charts, pivot charts
-- Tools for cleaning data before it went into Excel
 
 <h2>The Analysis :-</h2>
 

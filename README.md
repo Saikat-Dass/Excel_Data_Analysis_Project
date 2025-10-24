@@ -6,7 +6,7 @@ This project is an analysis of the sales data of a store, focusing on the dedica
 
 The data sourced from local store which provides a foundation for my analysis, containing detailed information on Sales based on Genders, Channels, States & Months. 
 
-<h2>Questions that I have solved</h2>
+<h2>Questions solved</h2>
 
 1. Compare the sales and orders using a single chart
 2. Which month got the highest sales and orders?
@@ -17,7 +17,7 @@ The data sourced from local store which provides a foundation for my analysis, c
 7. Which channel is contributing to maximum sales?
 8. Which is Highest selling category.
 
-<h2>Tools I have used</h2>
+<h2>Tools applied</h2>
 
 1. Microsoft Excel
 2. Specific Excel tools :-

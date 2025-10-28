@@ -1,6 +1,6 @@
 <h1>Data Analysis Project using Excel</h1>
 
-<h2>Overview :-</h2>
+<h2>Overview :</h2>
 
 This project is an analysis of the sales data of a store, focusing on the dedicated sales report. This project was created to navigate and understand the sales report more effectively.
 
@@ -10,7 +10,7 @@ The data sourced from local store which provides a foundation for my analysis, c
 
 ![project report](https://github.com/Saikat-Dass/Excel_Driven_Sales_Analysis/blob/957804df032ebe43f7b3d054a3d80831f7294f36/Project%20Report.png)
 
-<h2>Tools applied :-</h2>
+<h2>Tools applied :</h2>
 
 1. Microsoft Excel
 2. Specific Excel tools :
@@ -18,7 +18,7 @@ The data sourced from local store which provides a foundation for my analysis, c
 - Visualizations : Bar charts, Line graphs, Pie charts, pivot charts
 - Tools for cleaning data before it went into Excel
 
-<h2>Questions solved :-</h2>
+<h2>Questions solved :</h2>
 
 1. Compare the sales and orders using a single chart
 2. Which month got the highest sales and orders?
@@ -29,7 +29,7 @@ The data sourced from local store which provides a foundation for my analysis, c
 7. Which channel is contributing to maximum sales?
 8. Which is Highest selling category.
 
-<h2>The Analysis :-</h2>
+<h2>The Analysis :</h2>
 
 1. Compare the sales and orders using a single chart
 
@@ -83,7 +83,7 @@ The data sourced from local store which provides a foundation for my analysis, c
 
 - Kurta is the highest selling category, followed by Saree, Set.
 
-<h2>Conclusion :-</h2>
+<h2>Conclusion :</h2>
 
 To improve sales target women customers -
 - In the age group of 30-49 years
